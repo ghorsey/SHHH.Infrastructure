@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="fef378e5-3c95-4896-8180-55c15c6151ca" Title="SHHH.Infrastructure Namespace" Url="html/75efd319-3f96-d148-2631-237884a019b1.htm">
+    <HelpTOCNode Id="5c9fb41b-e02d-4c01-a607-009d26d442b2" Title="Collector(T) Class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm">
+      <HelpTOCNode Title="Collector(T) Members" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+      <HelpTOCNode Title="Collector(T) Constructor " Url="html/ab05a3f6-1cfb-4cf9-d8dc-bea92616beb4.htm" />
+      <HelpTOCNode Title="Collector(T) Methods" Url="html/6e7da8f9-9520-c3c0-23eb-cfe2c414be3f.htm" />
+      <HelpTOCNode Id="be95bb3d-ce3e-4d2c-8c22-073f185d576b" Title="Collector(T) Properties" Url="html/35917d68-603d-e020-ca17-85d856048900.htm">
+        <HelpTOCNode Title="CurrentPage Property " Url="html/5ad59c4d-01c7-395d-8d33-5bc95e67b796.htm" />
+        <HelpTOCNode Title="Items Property " Url="html/9929c988-72ff-b0ab-ed10-47552ffd4a4d.htm" />
+        <HelpTOCNode Title="TotalPages Property " Url="html/c6a6786c-10e4-4ceb-2432-38b2c4356d55.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08ffb122-e4f7-4e71-a1fd-d9040745469a" Title="Entity(TId) Class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm">
+      <HelpTOCNode Title="Entity(TId) Members" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+      <HelpTOCNode Title="Entity(TId) Constructor " Url="html/e28007a1-52c3-7663-4b58-f731fedf17fe.htm" />
+      <HelpTOCNode Id="a8d25264-80e7-46d6-a3cb-37b7ad435a93" Title="Entity(TId) Methods" Url="html/4888ea7a-3d14-665d-6a3f-b51454bbab79.htm">
+        <HelpTOCNode Id="435d9a84-e520-4da8-91eb-36af85aacfcb" Title="Equals Method " Url="html/b026b4a9-2068-ea7f-98a9-4f7c0c1ba34c.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/df51564c-a999-d4c9-1883-a7488d012fac.htm" />
+          <HelpTOCNode Title="Equals Method (Entity(TId))" Url="html/cab81e3f-3a68-c7cc-7bef-fd069ef0331e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/9c5a5719-9ff7-f635-0a55-678f10977dbc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd932543-bd67-4b0b-b49a-c42f71df088f" Title="Entity(TId) Properties" Url="html/933805a1-35ad-d97e-1cce-950cbd06e19e.htm">
+        <HelpTOCNode Title="Id Property " Url="html/8d2d0df9-f6c5-d84f-cae7-db6960cc833f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a7a7fec5-4b5e-46ff-af6a-6ad8b682cba8" Title="ILogicalDelete Interface" Url="html/e3cbac6e-0e2e-1269-6b29-1a581527c65c.htm">
+      <HelpTOCNode Title="ILogicalDelete Members" Url="html/1223f731-aa87-5ede-25e6-0410c2e332d6.htm" />
+      <HelpTOCNode Id="8560f246-4507-4331-b51e-db6c5b26ddf1" Title="ILogicalDelete Properties" Url="html/7873704c-c71b-aafa-4a5c-a437b6d7e2c0.htm">
+        <HelpTOCNode Title="IsDeleted Property " Url="html/748a7793-9542-3354-b850-9a1459603db8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6abf7181-01d7-4d6e-8684-00c8712c3ef3" Title="None(T) Class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm">
+      <HelpTOCNode Title="None(T) Members" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+      <HelpTOCNode Title="None(T) Constructor " Url="html/1e5d84cc-453d-c89d-a5b8-e247e8683d80.htm" />
+      <HelpTOCNode Title="None(T) Methods" Url="html/a084b3eb-f787-5f21-bce8-bd6eba5f94dd.htm" />
+      <HelpTOCNode Title="None(T) Properties" Url="html/e7593185-84c0-1af2-9f08-ffa32dcec7d0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6834081e-5228-41cb-9e61-0a02bdb7e607" Title="Option(T) Class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm">
+      <HelpTOCNode Title="Option(T) Members" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+      <HelpTOCNode Title="Option(T) Constructor " Url="html/d70442cd-e5d5-695f-1382-43354599f7cf.htm" />
+      <HelpTOCNode Id="acf23682-2e0d-4851-a798-d85a6a6efd9f" Title="Option(T) Methods" Url="html/85974222-332d-6e45-0472-ffd3ff0ed502.htm">
+        <HelpTOCNode Title="MakeOption Method " Url="html/69b794da-3306-e462-eefa-e52f2e617b07.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1aa0cdd3-bf0c-4415-9214-9bbd96bed7fe" Title="Option(T) Type Conversions" Url="html/8a152ed7-21c4-5785-7f17-c0b372f11115.htm">
+        <HelpTOCNode Title="Implicit Conversion (T to Option(T))" Url="html/d6340ccd-9827-2763-c4df-654c354c74ac.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d9a7c4fb-9a61-41af-b63f-6a474fc3d43d" Title="Option(T) Properties" Url="html/ef921806-52e6-d7ae-9b65-ea1d50620684.htm">
+        <HelpTOCNode Title="IsDefined Property " Url="html/2181076a-4294-eb60-7aa4-7bc48507e531.htm" />
+        <HelpTOCNode Title="Object Property " Url="html/f7d44285-c24e-3e39-ca91-141d89a0e358.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d14215e-b335-4982-b0c2-48f467f4f1ac" Title="Some(T) Class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm">
+      <HelpTOCNode Title="Some(T) Members" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+      <HelpTOCNode Title="Some(T) Constructor " Url="html/39271709-31e4-28f9-8b57-707d5514dd7a.htm" />
+      <HelpTOCNode Title="Some(T) Methods" Url="html/cee666e1-dfda-6766-e4e4-93fabda39d99.htm" />
+      <HelpTOCNode Title="Some(T) Properties" Url="html/99b3e10d-a6a1-ad21-13d0-ff24b3cbd96b.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

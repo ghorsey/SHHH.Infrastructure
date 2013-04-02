@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Collector(Of T) class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+  <HelpKINode Title="Collector(Of T) class" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+  <HelpKINode Title="Collector(Of T) class">
+    <HelpKINode Title="about Collector(Of T) class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+    <HelpKINode Title="all members" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+    <HelpKINode Title="constructor" Url="html/ab05a3f6-1cfb-4cf9-d8dc-bea92616beb4.htm" />
+    <HelpKINode Title="methods" Url="html/6e7da8f9-9520-c3c0-23eb-cfe2c414be3f.htm" />
+    <HelpKINode Title="properties" Url="html/35917d68-603d-e020-ca17-85d856048900.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Collector(Of T).Collector constructor" Url="html/ab05a3f6-1cfb-4cf9-d8dc-bea92616beb4.htm" />
+  <HelpKINode Title="Collector(Of T).CurrentPage property" Url="html/5ad59c4d-01c7-395d-8d33-5bc95e67b796.htm" />
+  <HelpKINode Title="Collector(Of T).Items property" Url="html/9929c988-72ff-b0ab-ed10-47552ffd4a4d.htm" />
+  <HelpKINode Title="Collector(Of T).TotalPages property" Url="html/c6a6786c-10e4-4ceb-2432-38b2c4356d55.htm" />
+  <HelpKINode Title="Collector&lt;T&gt; class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+  <HelpKINode Title="Collector&lt;T&gt; class" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+  <HelpKINode Title="Collector&lt;T&gt; class">
+    <HelpKINode Title="about Collector&lt;T&gt; class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+    <HelpKINode Title="all members" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+    <HelpKINode Title="constructor" Url="html/ab05a3f6-1cfb-4cf9-d8dc-bea92616beb4.htm" />
+    <HelpKINode Title="methods" Url="html/6e7da8f9-9520-c3c0-23eb-cfe2c414be3f.htm" />
+    <HelpKINode Title="properties" Url="html/35917d68-603d-e020-ca17-85d856048900.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Collector&lt;T&gt;.Collector constructor" Url="html/ab05a3f6-1cfb-4cf9-d8dc-bea92616beb4.htm" />
+  <HelpKINode Title="Collector&lt;T&gt;.CurrentPage property" Url="html/5ad59c4d-01c7-395d-8d33-5bc95e67b796.htm" />
+  <HelpKINode Title="Collector&lt;T&gt;.Items property" Url="html/9929c988-72ff-b0ab-ed10-47552ffd4a4d.htm" />
+  <HelpKINode Title="Collector&lt;T&gt;.TotalPages property" Url="html/c6a6786c-10e4-4ceb-2432-38b2c4356d55.htm" />
+  <HelpKINode Title="CurrentPage property" Url="html/5ad59c4d-01c7-395d-8d33-5bc95e67b796.htm" />
+  <HelpKINode Title="Entity(Of TId) class" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+  <HelpKINode Title="Entity(Of TId) class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+  <HelpKINode Title="Entity(Of TId) class">
+    <HelpKINode Title="about Entity(Of TId) class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+    <HelpKINode Title="all members" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+    <HelpKINode Title="constructor" Url="html/e28007a1-52c3-7663-4b58-f731fedf17fe.htm" />
+    <HelpKINode Title="methods" Url="html/4888ea7a-3d14-665d-6a3f-b51454bbab79.htm" />
+    <HelpKINode Title="properties" Url="html/933805a1-35ad-d97e-1cce-950cbd06e19e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Entity(Of TId).Entity constructor" Url="html/e28007a1-52c3-7663-4b58-f731fedf17fe.htm" />
+  <HelpKINode Title="Entity(Of TId).Equals method" Url="html/b026b4a9-2068-ea7f-98a9-4f7c0c1ba34c.htm" />
+  <HelpKINode Title="Entity(Of TId).GetHashCode method" Url="html/9c5a5719-9ff7-f635-0a55-678f10977dbc.htm" />
+  <HelpKINode Title="Entity(Of TId).Id property" Url="html/8d2d0df9-f6c5-d84f-cae7-db6960cc833f.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt; class" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt; class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt; class">
+    <HelpKINode Title="about Entity&lt;TId&gt; class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+    <HelpKINode Title="all members" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+    <HelpKINode Title="constructor" Url="html/e28007a1-52c3-7663-4b58-f731fedf17fe.htm" />
+    <HelpKINode Title="methods" Url="html/4888ea7a-3d14-665d-6a3f-b51454bbab79.htm" />
+    <HelpKINode Title="properties" Url="html/933805a1-35ad-d97e-1cce-950cbd06e19e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Entity&lt;TId&gt;.Entity constructor" Url="html/e28007a1-52c3-7663-4b58-f731fedf17fe.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt;.Equals method" Url="html/b026b4a9-2068-ea7f-98a9-4f7c0c1ba34c.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt;.GetHashCode method" Url="html/9c5a5719-9ff7-f635-0a55-678f10977dbc.htm" />
+  <HelpKINode Title="Entity&lt;TId&gt;.Id property" Url="html/8d2d0df9-f6c5-d84f-cae7-db6960cc833f.htm" />
+  <HelpKINode Title="Equals method" Url="html/b026b4a9-2068-ea7f-98a9-4f7c0c1ba34c.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/9c5a5719-9ff7-f635-0a55-678f10977dbc.htm" />
+  <HelpKINode Title="Id property" Url="html/8d2d0df9-f6c5-d84f-cae7-db6960cc833f.htm" />
+  <HelpKINode Title="ILogicalDelete interface" Url="html/1223f731-aa87-5ede-25e6-0410c2e332d6.htm" />
+  <HelpKINode Title="ILogicalDelete interface" Url="html/e3cbac6e-0e2e-1269-6b29-1a581527c65c.htm" />
+  <HelpKINode Title="ILogicalDelete interface">
+    <HelpKINode Title="about ILogicalDelete interface" Url="html/e3cbac6e-0e2e-1269-6b29-1a581527c65c.htm" />
+    <HelpKINode Title="all members" Url="html/1223f731-aa87-5ede-25e6-0410c2e332d6.htm" />
+    <HelpKINode Title="properties" Url="html/7873704c-c71b-aafa-4a5c-a437b6d7e2c0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogicalDelete.IsDeleted property" Url="html/748a7793-9542-3354-b850-9a1459603db8.htm" />
+  <HelpKINode Title="IsDefined property" Url="html/2181076a-4294-eb60-7aa4-7bc48507e531.htm" />
+  <HelpKINode Title="IsDeleted property" Url="html/748a7793-9542-3354-b850-9a1459603db8.htm" />
+  <HelpKINode Title="Items property" Url="html/9929c988-72ff-b0ab-ed10-47552ffd4a4d.htm" />
+  <HelpKINode Title="MakeOption method" Url="html/69b794da-3306-e462-eefa-e52f2e617b07.htm" />
+  <HelpKINode Title="None(Of T) class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+  <HelpKINode Title="None(Of T) class" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+  <HelpKINode Title="None(Of T) class">
+    <HelpKINode Title="about None(Of T) class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+    <HelpKINode Title="all members" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+    <HelpKINode Title="constructor" Url="html/1e5d84cc-453d-c89d-a5b8-e247e8683d80.htm" />
+    <HelpKINode Title="methods" Url="html/a084b3eb-f787-5f21-bce8-bd6eba5f94dd.htm" />
+    <HelpKINode Title="properties" Url="html/e7593185-84c0-1af2-9f08-ffa32dcec7d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="None(Of T).None constructor" Url="html/1e5d84cc-453d-c89d-a5b8-e247e8683d80.htm" />
+  <HelpKINode Title="None&lt;T&gt; class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+  <HelpKINode Title="None&lt;T&gt; class" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+  <HelpKINode Title="None&lt;T&gt; class">
+    <HelpKINode Title="about None&lt;T&gt; class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+    <HelpKINode Title="all members" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+    <HelpKINode Title="constructor" Url="html/1e5d84cc-453d-c89d-a5b8-e247e8683d80.htm" />
+    <HelpKINode Title="methods" Url="html/a084b3eb-f787-5f21-bce8-bd6eba5f94dd.htm" />
+    <HelpKINode Title="properties" Url="html/e7593185-84c0-1af2-9f08-ffa32dcec7d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="None&lt;T&gt;.None constructor" Url="html/1e5d84cc-453d-c89d-a5b8-e247e8683d80.htm" />
+  <HelpKINode Title="Object property" Url="html/f7d44285-c24e-3e39-ca91-141d89a0e358.htm" />
+  <HelpKINode Title="Option(Of T) class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+  <HelpKINode Title="Option(Of T) class" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+  <HelpKINode Title="Option(Of T) class">
+    <HelpKINode Title="about Option(Of T) class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+    <HelpKINode Title="all members" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+    <HelpKINode Title="constructor" Url="html/d70442cd-e5d5-695f-1382-43354599f7cf.htm" />
+    <HelpKINode Title="methods" Url="html/85974222-332d-6e45-0472-ffd3ff0ed502.htm" />
+    <HelpKINode Title="properties" Url="html/ef921806-52e6-d7ae-9b65-ea1d50620684.htm" />
+    <HelpKINode Title="type conversions" Url="html/8a152ed7-21c4-5785-7f17-c0b372f11115.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Option(Of T).IsDefined property" Url="html/2181076a-4294-eb60-7aa4-7bc48507e531.htm" />
+  <HelpKINode Title="Option(Of T).MakeOption method" Url="html/69b794da-3306-e462-eefa-e52f2e617b07.htm" />
+  <HelpKINode Title="Option(Of T).Object property" Url="html/f7d44285-c24e-3e39-ca91-141d89a0e358.htm" />
+  <HelpKINode Title="Option(Of T).Option constructor" Url="html/d70442cd-e5d5-695f-1382-43354599f7cf.htm" />
+  <HelpKINode Title="Option&lt;T&gt; class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+  <HelpKINode Title="Option&lt;T&gt; class" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+  <HelpKINode Title="Option&lt;T&gt; class">
+    <HelpKINode Title="about Option&lt;T&gt; class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+    <HelpKINode Title="all members" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+    <HelpKINode Title="constructor" Url="html/d70442cd-e5d5-695f-1382-43354599f7cf.htm" />
+    <HelpKINode Title="methods" Url="html/85974222-332d-6e45-0472-ffd3ff0ed502.htm" />
+    <HelpKINode Title="properties" Url="html/ef921806-52e6-d7ae-9b65-ea1d50620684.htm" />
+    <HelpKINode Title="type conversions" Url="html/8a152ed7-21c4-5785-7f17-c0b372f11115.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Option&lt;T&gt;.IsDefined property" Url="html/2181076a-4294-eb60-7aa4-7bc48507e531.htm" />
+  <HelpKINode Title="Option&lt;T&gt;.MakeOption method" Url="html/69b794da-3306-e462-eefa-e52f2e617b07.htm" />
+  <HelpKINode Title="Option&lt;T&gt;.Object property" Url="html/f7d44285-c24e-3e39-ca91-141d89a0e358.htm" />
+  <HelpKINode Title="Option&lt;T&gt;.Option constructor" Url="html/d70442cd-e5d5-695f-1382-43354599f7cf.htm" />
+  <HelpKINode Title="SHHH.Infrastructure namespace" Url="html/75efd319-3f96-d148-2631-237884a019b1.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Collector(Of T) class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Collector(Of T) class" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Collector&lt;T&gt; class" Url="html/bacf388f-1fc4-987a-f70a-12768b02dedb.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Collector&lt;T&gt; class" Url="html/f1169bac-95dc-b552-2339-4e13cb4cdff9.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Entity(Of TId) class" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Entity(Of TId) class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Entity&lt;TId&gt; class" Url="html/2cf9b9e4-01c9-62c7-aa5b-72a65b36c7b3.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Entity&lt;TId&gt; class" Url="html/d4fbdcb1-0fe9-11ba-a4fd-01f11cb6c69e.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.ILogicalDelete interface" Url="html/1223f731-aa87-5ede-25e6-0410c2e332d6.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.ILogicalDelete interface" Url="html/e3cbac6e-0e2e-1269-6b29-1a581527c65c.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.None(Of T) class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.None(Of T) class" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.None&lt;T&gt; class" Url="html/39757f03-f6bf-99eb-f92f-544b000370ad.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.None&lt;T&gt; class" Url="html/9ba02776-c82d-a301-5b1a-b6162f3eafc0.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Option(Of T) class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Option(Of T) class" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Option&lt;T&gt; class" Url="html/a8170ac3-569c-d483-1ce3-99e2c8f041ba.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Option&lt;T&gt; class" Url="html/ffbc1dfc-ed6f-b2e0-3440-868f7aaec0c8.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Some(Of T) class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Some(Of T) class" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Some&lt;T&gt; class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+  <HelpKINode Title="SHHH.Infrastructure.Some&lt;T&gt; class" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+  <HelpKINode Title="Some(Of T) class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+  <HelpKINode Title="Some(Of T) class" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+  <HelpKINode Title="Some(Of T) class">
+    <HelpKINode Title="about Some(Of T) class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+    <HelpKINode Title="all members" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+    <HelpKINode Title="constructor" Url="html/39271709-31e4-28f9-8b57-707d5514dd7a.htm" />
+    <HelpKINode Title="methods" Url="html/cee666e1-dfda-6766-e4e4-93fabda39d99.htm" />
+    <HelpKINode Title="properties" Url="html/99b3e10d-a6a1-ad21-13d0-ff24b3cbd96b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Some(Of T).Some constructor" Url="html/39271709-31e4-28f9-8b57-707d5514dd7a.htm" />
+  <HelpKINode Title="Some&lt;T&gt; class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+  <HelpKINode Title="Some&lt;T&gt; class" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+  <HelpKINode Title="Some&lt;T&gt; class">
+    <HelpKINode Title="about Some&lt;T&gt; class" Url="html/0a38af59-688b-4914-5374-87375c37e90d.htm" />
+    <HelpKINode Title="all members" Url="html/62372e6f-24fe-f6d0-e273-7fc645401c09.htm" />
+    <HelpKINode Title="constructor" Url="html/39271709-31e4-28f9-8b57-707d5514dd7a.htm" />
+    <HelpKINode Title="methods" Url="html/cee666e1-dfda-6766-e4e4-93fabda39d99.htm" />
+    <HelpKINode Title="properties" Url="html/99b3e10d-a6a1-ad21-13d0-ff24b3cbd96b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Some&lt;T&gt;.Some constructor" Url="html/39271709-31e4-28f9-8b57-707d5514dd7a.htm" />
+  <HelpKINode Title="T to Option(Of T) conversion" Url="html/d6340ccd-9827-2763-c4df-654c354c74ac.htm" />
+  <HelpKINode Title="T to Option&lt;T&gt; conversion" Url="html/d6340ccd-9827-2763-c4df-654c354c74ac.htm" />
+  <HelpKINode Title="TotalPages property" Url="html/c6a6786c-10e4-4ceb-2432-38b2c4356d55.htm" />
+</HelpKI>
