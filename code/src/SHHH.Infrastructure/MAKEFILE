@@ -1,0 +1,9 @@
+NuGet = ..\.nuget\NuGet.exe
+SPEC:
+	 $(NuGet) spec SHHH.Infrastructure.csproj
+
+PACK: SPEC
+	$(NuGet) pack SHHH.Infrastructure.csproj -Prop Configuration=Release
+
+PUSH: PACK
+	$(NuGet) push SHHH.Infrastructure.*.nupkg
