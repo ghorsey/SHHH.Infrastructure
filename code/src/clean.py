@@ -17,8 +17,15 @@ maxDepth = 1
 if len(sys.argv) == 2:
     maxDepth = int(sys.argv[1])
     
-for root, dirNames, filenames in walklevel.walklevel(".\\", level = 2):
+print maxDepth
+for root, dirNames, filenames in walklevel.walklevel(".\\", level = maxDepth):
     for dir in fnmatch.filter(dirNames, "bin"):
-        removeDir(os.path.join(root, dir))
+        try:
+            removeDir(os.path.join(root, dir))
+        except:
+            print "Failed: " + os.path.join(root, dir)
     for dir in fnmatch.filter(dirNames, "obj"):
-        removeDir(os.path.join(root, dir))
+        try:
+            removeDir(os.path.join(root, dir))
+        except:
+            print "Failed: " + os.path.join(root, dir)
