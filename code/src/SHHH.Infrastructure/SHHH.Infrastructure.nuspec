@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/ghorsey/SHHH.Infrastructure</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Marked the assembly to allow partially trusted callers</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags></tags>
   </metadata>
