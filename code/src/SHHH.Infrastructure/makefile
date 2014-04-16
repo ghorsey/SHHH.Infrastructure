@@ -1,5 +1,5 @@
 
-NuGet = ..\.nuget\NuGet.exe
+NuGet = ../.nuget/NuGet.exe
 Name = SHHH.Infrastructure.
 SPEC:
 	@ECHO CREATING SPEC...
@@ -15,4 +15,4 @@ PUSH: PACK
 
 CLEAN:
 	@ECHO CLEANING PACKS
-	del $(Name)*.nupkg
+	rm -f $(Name)*.nupkg
